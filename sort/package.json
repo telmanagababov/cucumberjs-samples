@@ -1,0 +1,15 @@
+{
+  "name": "quick-sort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quickSort.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cucumber": "^3.0.3"
+  },
+  "scripts": {
+    "test": "cucumberjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
