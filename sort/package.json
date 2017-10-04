@@ -8,7 +8,8 @@
     "cucumber": "^3.0.3"
   },
   "scripts": {
-    "test": "cucumberjs"
+    "test": "cucumberjs",
+    "testDev": "cucumberjs --tags @dev"
   },
   "author": "",
   "license": "ISC"

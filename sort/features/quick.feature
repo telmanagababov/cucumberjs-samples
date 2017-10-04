@@ -1,10 +1,10 @@
-Feature: Bubble Sort
+Feature: Quick Sort
     In order to sort arrays
     As a developer
     I want to have an Util class
 
     Background:
-        Given a new data holder of 'BubbleSort' type
+        Given a new data holder of 'QuickSort' type
 
     Scenario: Original data
         When data set to '1, 10, 12, 6, 3'
